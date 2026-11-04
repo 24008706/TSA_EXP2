@@ -1,5 +1,5 @@
 # Ex.No: 02 LINEAR AND POLYNOMIAL TREND ESTIMATION
-Date:
+Date:04-11-2026
 ### AIM:
 To Implement Linear and Polynomial Trend Estiamtion Using Python.
 
